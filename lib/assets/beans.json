@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Fava beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black nightfall beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Kidney beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Broad beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Anasazi beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Azufrado beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Otebo beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Maine Yellow Eye beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Great Northern bean",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Potato beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Scarlet runner beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Red Eye beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Yin Yang beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Molasses Face beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Small red beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Adzuki beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "European Soldier beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Cannellini beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Lingot beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Turtle beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black kidney beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Vallarta beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Mung beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Hyacinth bean",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Crab eye beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Brown speckled cow beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Calypso beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Winged beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Small white beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Dark red kidney beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Roman beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Borlotti beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Appaloosa beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Pinto beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Tongue of Fire beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Trout beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Bountiful beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Christmas Lima beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Mayocoba beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Steuben yellow beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Flageolet beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Butter beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Salugia beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Mortage lifter beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Bayo beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Pink beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Rattlesna",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black valentines beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Yellow Indian Women beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Eye of Goat beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black Adzuki beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Lima beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Jackson Wonder Lima bean",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Canary beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Bolita beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Vaquero beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Bonavist beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Navy beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Ocra beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Black turtle beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Climbing French beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  },
+  {
+    "name": "Asparagus beans",
+    "initial_cost": 1,
+    "coefficiant": 1,
+    "initial_time": 1,
+    "initial_revenue": 1,
+    "initial_productivity": 1
+  }
+]
