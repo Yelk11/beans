@@ -1,0 +1,25 @@
+
+
+mvp:
+bean Facotry
+
+Employee update
+- add employees
+- implement confidence
+- implement energy
+- implement cutlure of employees
+
+
+Office update:
+- Finance department
+- Purchasing department
+
+
+
+
+
+
+
+
+
+

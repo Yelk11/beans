@@ -35,7 +35,7 @@ class _MainPageState extends State<MainPage> {
                     itemBuilder: (BuildContext context, int index) {
                       return Container(
                         height: 50,
-                        color: Colors.amber,
+                        color: Color.fromARGB(255, 242, 205, 93),
                         child: Center(child: Text(newData[index]['name'])),
                       );
                     },
